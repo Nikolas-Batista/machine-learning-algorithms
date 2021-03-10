@@ -4,12 +4,12 @@
 
 <p> Comparativo de diferentes algortimos de Machine Learning  </p>
 
-# Tecnologias Utilizadas
-<ul>
-  <li>[Anaconda](https://www.anaconda.com/)</li>
-  <li>[Spyder](https://www.spyder-ide.org/)</li>
-  <li>[Python](https://www.python.org/)</li>
-</ul>
+# Tecnologias Utilizadas :gear:
+
+  - [Anaconda](https://www.anaconda.com/)
+  - [Spyder](https://www.spyder-ide.org/)
+  - [Python](https://www.python.org/)
+
 
 # Descrição dos Scripts
 ## Seção 3 - Pre-processamento com Pandas e scikit-learm
