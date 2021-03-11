@@ -14,4 +14,4 @@
 # Descrição dos Scripts
 ## Seção 3 - Pre-processamento com Pandas e scikit-learm
 <p><strong>naive_bayes_census: </strong>Este algoritmo retorna a probabilidade de acertos realizada pelo aprendizagem de máquina através do algoritimo Naive Bayes.</p>
-<img src="/assets/naive_bayes.gif" width="1920" height="1080"/>
+<img src="/assets/naive_bayes.gif" width="1080" height="720"/>
