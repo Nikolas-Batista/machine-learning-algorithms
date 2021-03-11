@@ -10,6 +10,8 @@
   - [Spyder](https://www.spyder-ide.org/)
   - [Python](https://www.python.org/)
 
+# Objetivo do Projeto :dart:
+<p>Este projeto visa fazer um comparativo da porcentagem de acerto de alguns algoritmos de Machine Learnig</p>
 
 # Descrição dos Scripts
 ## Aprendizagem bayesiana
