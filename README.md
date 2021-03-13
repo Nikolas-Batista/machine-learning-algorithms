@@ -17,3 +17,7 @@
 ## Aprendizagem bayesiana
 <p><strong>naive_bayes_census: </strong>Este algoritmo retorna a probabilidade de acertos realizada pelo aprendizagem de máquina através do algoritimo Naive Bayes.</p>
 <img src="/assets/naive_bayes.gif" width="800" height="450"/>
+
+## Aprendizagem por Árvore de decisão
+<p><strong>naive_bayes_census: </strong>Este algoritmo retorna a probabilidade de acertos realizada pelo aprendizagem de máquina através do algoritimo Decision Tree.</p>
+<img src="/assets/arvore_de_decisao.gif" width="800" height="450"/>
