@@ -25,3 +25,7 @@
 ## Aprendizagem por Árvore de decisão randômicas
 <p><strong>arvores_decisao_randomica_census_data: </strong>Este algoritmo retorna a probabilidade de acertos realizada pelo aprendizagem de máquina através do algoritimo Random Decision Tree.</p>
 <img src="/assets/arvore_de_ decisicoes_randomica.gif" width="800" height="450"/>
+
+## Aprendizagem baseado em instâncias (kNN)
+<p><strong>knn_census: </strong>Este algoritmo retorna a probabilidade de acertos realizada pelo aprendizagem de máquina através do algoritimo kNN.</p>
+<img src="/assets/knn.gif" width="800" height="450"/>
